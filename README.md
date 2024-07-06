@@ -1,1 +1,1 @@
-# Basic Java programs and Json-to-Pojo sample practiced problems!!!
+# Basic Java programs and JSON-to-POJO sample practiced problems!!!
