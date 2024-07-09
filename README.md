@@ -1,3 +1,3 @@
-# Basic Java programs and JSON-to-POJO sample practiced problems!!!
+# Basic Java programs and JSON-to-POJO sample programs practice questions!!!
 
 ## IDE- IntelliJ 
