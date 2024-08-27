@@ -1,4 +1,4 @@
-# Basic Core Java & Java 8+ programs and JSON-to-POJO sample programs practice questions!!!
+# Basic Core Java & Java (8+) programs and JSON-to-POJO sample programs practice questions!!!
 
 ## IDE- IntelliJ 
 
