@@ -1,4 +1,4 @@
-# Basic Core Java - Java (8+) programs and JSON-to-POJO sample programs practice questions!!!
+# Basic Core Java - Java(8+) programs and JSON-to-POJO sample programs practice questions!!!
 
 ## IDE- IntelliJ 
 
@@ -6,11 +6,11 @@ Java programs on GitHub cover a wide range of applications and purposes, reflect
 
 1. **Application Types**:
    - **Web Applications**: Java is commonly used for backend development in web applications. GitHub repositories often contain projects built using frameworks like Spring Boot, Java EE, or Play Framework.
-   - **Desktop Applications**: Java Swing or JavaFX are used for creating desktop GUI applications. Repositories may include utilities, games, or productivity tools.
-   - **Mobile Applications**: Android applications are predominantly written in Java. GitHub hosts many Android projects ranging from simple apps to complex ones with advanced features.
+   - **Desktop Applications**: Java Swing or JavaFX are used to create desktop GUI applications. Repositories may include utilities, games, or productivity tools.
+   - **Mobile Applications**: Android applications are predominantly written in Java. GitHub hosts many Android projects, from simple apps to complex ones with advanced features.
 
 2. **Libraries and Frameworks**:
-   - **Frameworks**: Repositories containing frameworks like Spring Framework (for enterprise applications), Hibernate (for ORM), Apache Struts, etc.
+   - **Frameworks**: Repositories like Spring Framework (for enterprise applications), Hibernate (for ORM), Apache Struts, etc.
    - **Libraries**: Java libraries for various purposes such as JSON parsing (Jackson, GSON), networking (OkHttp, Retrofit), testing (JUnit, Mockito), etc.
 
 3. **Data Structures and Algorithms**:
