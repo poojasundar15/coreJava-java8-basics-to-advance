@@ -1,6 +1,6 @@
 # Basic Core Java - Java(8+) programs & JSON-to-POJO sample programs practice questions!
 
-## IDE- IntelliJ 
+## IDE- IntelliJ:-
 
 Java programs on GitHub cover a wide range of applications and purposes, reflecting the versatility and popularity of the Java programming language. Here’s a detailed description of what you can typically find in Java repositories on GitHub:
 
